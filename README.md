@@ -3,26 +3,38 @@
 ## TABLE
 
 ### House Big
-Buycost : 100                     Earns: level 1 = 25
-level 2 up cost = 150                level 2 = 35
-level 3 up cost = 200                level 3 = 45
-max level up cost = 250              level 4 = 55
+Buycost : 100                     
+level 2 up cost = 150                
+level 3 up cost = 200                
+max level up cost = 250              
+Earns: level 1 = 25
+level 2 = 35
+level 3 = 45
+level 4 = 55
 
 <img src="https://i.ibb.co/RSJPbwk/unknown.png" alt="unknown" border="0">
 
 ### House Medium
-Buycost : 50                    Earns: level 1 = 15
-level 2 up cost = 100                level 2 = 20
-level 3 up cost = 150                level 3 = 25
-max level up cost = 200              level 4 = 30
+Buycost : 50                    
+level 2 up cost = 100                
+level 3 up cost = 150                
+max level up cost = 200              
+Earns: level 1 = 15
+level 2 = 20
+level 3 = 25
+level 4 = 30
 
 <img src="https://i.ibb.co/SQr7Q2B/unknown.png" alt="unknown" border="0">
 
 ### Bunker
-Buycost : 25                     Earns: level 1 = 5
-level 2 up cost = 75                level 2 = 7
-level 3 up cost = 125                level 3 = 9
-max level up cost = 175              level 4 = 11
+Buycost : 25                     
+level 2 up cost = 75                
+level 3 up cost = 125                
+max level up cost = 175              
+Earns: level 1 = 5
+level 2 = 7
+level 3 = 9
+level 4 = 11
 
 <img src="https://i.ibb.co/kDqvPXr/unknown.png" alt="unknown" border="0">
 
